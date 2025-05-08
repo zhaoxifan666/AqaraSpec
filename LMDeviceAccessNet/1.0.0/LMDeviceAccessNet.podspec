@@ -152,6 +152,7 @@ Pod::Spec.new do |spec|
   spec.dependency "LMBaseEncryption"
   spec.dependency "MMKV"
   spec.dependency "KVOController"
+  spec.dependency "BabyBluetooth"
 
 
 end
