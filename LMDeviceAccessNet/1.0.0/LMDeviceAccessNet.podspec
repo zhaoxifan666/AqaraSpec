@@ -150,7 +150,7 @@ Pod::Spec.new do |spec|
   spec.dependency "LMMatterCore"
   spec.dependency "LMExtensionNetwork"
   spec.dependency "LMBaseEncryption"
-  spec.dependency "MMKV"
+  spec.dependency "MMKV", "1.2.10"
   spec.dependency "KVOController"
   spec.dependency "BabyBluetooth"
 
